@@ -12,4 +12,26 @@ header {
         color: #b7657c;
         text-align:  left;
     }
+nav {
+    background-color: #333;
+}
 
+nav ol {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ol li {
+    display: inline;
+}
+
+nav ol li a:hover {
+    text-decoration: underline;
+}
+footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px 0;
+    bottom: 0;
+    width: 100%;
+}
