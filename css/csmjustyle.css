@@ -5,8 +5,11 @@
         background-color: #e9dfe1;
         color: #ffffff;
         text-align: center;
+        font-size: 1.5em;
     }
     header {
         background-color: #ffffff;
         color: #b7657c;
+        text-align:  left;
     }
+
